@@ -4,7 +4,7 @@ Python GIMP plug-in that loads an image from directory, inserts a text layer usi
 ---
 
 
-Following variables need to be replace with local directories:
+Following variables need to be replaced with local directories:
 
 path_data = 'C:\\data.txt'
 
