@@ -16,5 +16,6 @@ path_ouput_directory = 'C:\\'
 
 
 Script python_fu_batch.py needs to be stored in Gimp plug-ins directory, then it can be executed from Gimp UI / File.
+In my laptop the script was located in C:\Users\User\AppData\Roaming\GIMP\2.10\plug-ins
 
 ![image](https://github.com/jberaunm/python-fu-batch/assets/111096713/11c55cf0-17d1-4321-bf81-93452f4b8d29)
